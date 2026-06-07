@@ -76,16 +76,16 @@ Goal            →  Remote Java Backend Developer Job 🎯
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilVaishnav-code&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikhilVaishnav-code&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilVaishnav-code&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilVaishnav-code&layout=compact&theme=dark&hide_border=true)](https://github.com/NikhilVaishnav-code)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilvais)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavnikhil409@gmail.com)
 
 ---
 
